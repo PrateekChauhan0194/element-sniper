@@ -1,0 +1,19 @@
+{
+  "name": "element-sniper",
+  "version": "1.0.0",
+  "description": "This package can be used to capture screenshot of a specific element present on a webpage.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PrateekChauhan0194/element-sniper.git"
+  },
+  "author": "Prateek Chauhan (prateek.chauhan0194@gmail.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PrateekChauhan0194/element-sniper/issues"
+  },
+  "homepage": "https://github.com/PrateekChauhan0194/element-sniper#readme"
+}
