@@ -1,3 +1,3 @@
-module.exports = function(width, height) {
-    return width * height;
+exports.printMessage = function() {
+    console.log("Testing element-sniper");
 };
